@@ -1,0 +1,9 @@
+name: EthosEvents
+version: '${project.version}'
+main: de.projectethos.ethosevents.ethosevents.EthosEvents
+api-version: 1.19
+authors: [ Palalal ]
+description: Eventplugin for Minecraft
+commands:
+  event:
+    description: Command to host events
